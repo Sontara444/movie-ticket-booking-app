@@ -77,7 +77,7 @@ function populateUI(){
 
     }
 
-    // get selected movie data from local storage
+    // Get selected movie data from local storage
 
     const selectedMovieIndex = localStorage.getItem("selectedMovieIndex")
 
